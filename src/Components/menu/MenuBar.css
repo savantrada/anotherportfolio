@@ -1,0 +1,10 @@
+.ui.inverted.menu {
+    padding: 10px !important;
+    display: flex;
+    justify-content: center;
+}
+
+.ui.inverted.menu .item{
+    margin: 10px !important;
+}
+
