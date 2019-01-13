@@ -1,14 +1,13 @@
 {
-  "main.css": "/anotherportfolio/static/css/main.72c3ed8d.chunk.css",
-  "main.js": "/anotherportfolio/static/js/main.698cb002.chunk.js",
-  "main.js.map": "/anotherportfolio/static/js/main.698cb002.chunk.js.map",
-  "static/js/1.f724cf2d.chunk.js": "/anotherportfolio/static/js/1.f724cf2d.chunk.js",
-  "static/js/1.f724cf2d.chunk.js.map": "/anotherportfolio/static/js/1.f724cf2d.chunk.js.map",
+  "main.css": "/anotherportfolio/static/css/main.8d068aae.chunk.css",
+  "main.js": "/anotherportfolio/static/js/main.65cd84ea.chunk.js",
+  "main.js.map": "/anotherportfolio/static/js/main.65cd84ea.chunk.js.map",
+  "static/js/1.1b61a3d7.chunk.js": "/anotherportfolio/static/js/1.1b61a3d7.chunk.js",
+  "static/js/1.1b61a3d7.chunk.js.map": "/anotherportfolio/static/js/1.1b61a3d7.chunk.js.map",
   "runtime~main.js": "/anotherportfolio/static/js/runtime~main.ce38a0ce.js",
   "runtime~main.js.map": "/anotherportfolio/static/js/runtime~main.ce38a0ce.js.map",
-  "static/media/parul.png": "/anotherportfolio/static/media/parul.30b29466.png",
-  "static/css/main.72c3ed8d.chunk.css.map": "/anotherportfolio/static/css/main.72c3ed8d.chunk.css.map",
+  "static/css/main.8d068aae.chunk.css.map": "/anotherportfolio/static/css/main.8d068aae.chunk.css.map",
   "index.html": "/anotherportfolio/index.html",
-  "precache-manifest.f526d1861cb55f28fab683f96543fe92.js": "/anotherportfolio/precache-manifest.f526d1861cb55f28fab683f96543fe92.js",
+  "precache-manifest.23f95a00bb871265db83a780d6bdd22b.js": "/anotherportfolio/precache-manifest.23f95a00bb871265db83a780d6bdd22b.js",
   "service-worker.js": "/anotherportfolio/service-worker.js"
 }
