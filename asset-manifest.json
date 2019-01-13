@@ -1,14 +1,14 @@
 {
-  "main.css": "/anotherportfolio/static/css/main.72c3ed8d.chunk.css",
-  "main.js": "/anotherportfolio/static/js/main.698cb002.chunk.js",
-  "main.js.map": "/anotherportfolio/static/js/main.698cb002.chunk.js.map",
-  "static/js/1.f724cf2d.chunk.js": "/anotherportfolio/static/js/1.f724cf2d.chunk.js",
-  "static/js/1.f724cf2d.chunk.js.map": "/anotherportfolio/static/js/1.f724cf2d.chunk.js.map",
-  "runtime~main.js": "/anotherportfolio/static/js/runtime~main.ce38a0ce.js",
-  "runtime~main.js.map": "/anotherportfolio/static/js/runtime~main.ce38a0ce.js.map",
-  "static/media/parul.png": "/anotherportfolio/static/media/parul.30b29466.png",
-  "static/css/main.72c3ed8d.chunk.css.map": "/anotherportfolio/static/css/main.72c3ed8d.chunk.css.map",
-  "index.html": "/anotherportfolio/index.html",
-  "precache-manifest.f526d1861cb55f28fab683f96543fe92.js": "/anotherportfolio/precache-manifest.f526d1861cb55f28fab683f96543fe92.js",
-  "service-worker.js": "/anotherportfolio/service-worker.js"
+  "main.css": "/savantrada/anotherportfolio/static/css/main.72c3ed8d.chunk.css",
+  "main.js": "/savantrada/anotherportfolio/static/js/main.698cb002.chunk.js",
+  "main.js.map": "/savantrada/anotherportfolio/static/js/main.698cb002.chunk.js.map",
+  "static/js/1.f724cf2d.chunk.js": "/savantrada/anotherportfolio/static/js/1.f724cf2d.chunk.js",
+  "static/js/1.f724cf2d.chunk.js.map": "/savantrada/anotherportfolio/static/js/1.f724cf2d.chunk.js.map",
+  "runtime~main.js": "/savantrada/anotherportfolio/static/js/runtime~main.0424f7f3.js",
+  "runtime~main.js.map": "/savantrada/anotherportfolio/static/js/runtime~main.0424f7f3.js.map",
+  "static/media/parul.png": "/savantrada/anotherportfolio/static/media/parul.30b29466.png",
+  "static/css/main.72c3ed8d.chunk.css.map": "/savantrada/anotherportfolio/static/css/main.72c3ed8d.chunk.css.map",
+  "index.html": "/savantrada/anotherportfolio/index.html",
+  "precache-manifest.5ba7f2b172dfa824596514a0813cef84.js": "/savantrada/anotherportfolio/precache-manifest.5ba7f2b172dfa824596514a0813cef84.js",
+  "service-worker.js": "/savantrada/anotherportfolio/service-worker.js"
 }

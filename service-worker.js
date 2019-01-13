@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/anotherportfolio/precache-manifest.f526d1861cb55f28fab683f96543fe92.js"
+  "/savantrada/anotherportfolio/precache-manifest.5ba7f2b172dfa824596514a0813cef84.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/anotherportfolio/index.html", {
+workbox.routing.registerNavigationRoute("/savantrada/anotherportfolio/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
